@@ -1,0 +1,46 @@
+A secure and scalable Movie Ticket Booking System built using Spring Boot, Spring Security, JWT Authentication, Spring Data JPA, and MySQL. The application provides REST APIs for movie management, show scheduling, seat booking, and user authentication with role-based access control.
+
+🚀 Features
+1. User Registration and Login with JWT Authentication
+2. Role-Based Access Control (Admin & Customer)
+3. Movie Management (Add, Update, Delete, View Movies)
+4. Show Management and Scheduling
+5. Seat Availability Tracking
+6. Online Ticket Booking
+7. Booking Status Management
+8. Secure REST APIs using Spring Security
+9. Exception Handling and Validation
+10. Swagger/OpenAPI Documentation
+
+🛠️ Tech Stack
+1. Java 17
+2. Spring Boot 3
+3. Spring Security
+4. JWT Authentication
+5. Spring Data JPA (Hibernate)
+6. MySQL Database
+7. Maven
+8. Swagger/OpenAPI
+
+📌 Modules
+1. Admin
+- Manage Movies
+- Manage Shows
+- View Booking Information
+
+2. Customer
+- Register/Login
+- Browse Movies and Shows
+- Check Seat Availability
+- Book Movie Tickets
+- View Booking Details
+
+🔒 Security
+1. JWT-based Authentication
+2. Role-Based Authorization
+3. Protected API Endpoints
+4. Password Encryption using Spring Security
+
+📖 API Documentation
+1. Swagger UI is integrated for easy API testing and documentation.
+
